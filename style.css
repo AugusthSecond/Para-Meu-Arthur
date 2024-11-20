@@ -22,7 +22,7 @@ main{
      min-height: 100vh;
 }
 ::selection{
-    color:rgb(255, 255, 0)
+    color:rgb(184, 184, 20)
 }
 h1{
     padding-bottom: 120px;
